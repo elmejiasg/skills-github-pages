@@ -1,5 +1,5 @@
 ---
-title: Bienvenida a mi portfolio
+title: 
 ---
 
 # 👩‍💻 Sobre mí
